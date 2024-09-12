@@ -13,12 +13,16 @@ int initMCP9808() {
         std::cerr << "Failed to initialize I2C communication.\n";
         return -1;
     }
-    std::
-    cout << "I2C communication successfully setup.\n";
+    std::cout << "I2C communication successfully setup.\n";
     return fd;
 }
 
 void main(){
-    initMCP9808();
+    if (initMCP9808() == -1){
+
+        std::cout << " Error I2C bus inithilision\n"
+        return 0;
+    }
+
 
 }
