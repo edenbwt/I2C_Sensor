@@ -1,6 +1,6 @@
 # I2C_Sensor
-school project using raspberry pi and i2c to get sensor data 
-
+school project using raspberry pi and i2c to get sensor data by Alicia_B & Eden_C 
+## Material list
 ### Software used
 - Geany
 - G++
@@ -9,3 +9,4 @@ school project using raspberry pi and i2c to get sensor data
 - MPC9808 temp sensor
 ###  Library
 - WiringPi
+## Sequence diagram
