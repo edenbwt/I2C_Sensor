@@ -2,9 +2,10 @@
 school project using raspberry pi and i2c to get sensor data 
 
 ### Software used
-- MobaXterm
-- Visual studio
+- Geany
+- G++
 ### Hardware
 - Raspberry pi
+- MPC9808 temp sensor
 ###  Library
 - WiringPi
