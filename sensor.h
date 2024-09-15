@@ -6,7 +6,7 @@
  * utilisée pour interagir avec un capteur de température MCP9808 via 
  * une interface I2C.
  *
- * \author Dioxigene
+ * \author Alicia_B & Eden_C
  * \date   Septembre 2024
  *********************************************************************/
 
