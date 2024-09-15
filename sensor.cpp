@@ -7,7 +7,7 @@
  * MCP9808, de lire la température et de l'afficher via une 
  * communication I2C.
  *
- * \author Dioxigene
+ * \author Alicia_B & Eden_C
  * \date   Septembre 2024
  *********************************************************************/
 
